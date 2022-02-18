@@ -1,0 +1,14 @@
+body
+{
+    background-image: url(images/clinique.jpg);
+    background-attachment: fixed;
+    backdrop-filter: blur(50px);
+}
+
+#nomClinique
+{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
